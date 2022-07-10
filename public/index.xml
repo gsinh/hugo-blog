@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gagan Singh&#39;s Webpage</title>
+    <link>http://singh.lol/</link>
+    <description>Recent content on Gagan Singh&#39;s Webpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jul 2022 19:31:06 +0530</lastBuildDate><atom:link href="http://singh.lol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://singh.lol/posts/my-first-post/</link>
+      <pubDate>Sun, 10 Jul 2022 19:31:06 +0530</pubDate>
+      
+      <guid>http://singh.lol/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

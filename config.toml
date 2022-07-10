@@ -1,0 +1,4 @@
+baseURL = 'http://singh.lol/'
+languageCode = 'en-us'
+title = "Gagan Singh's Webpage"
+theme = "ananke"
