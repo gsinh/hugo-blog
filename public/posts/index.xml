@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Gagan Singh&#39;s Webpage</title>
-    <link>http://singh.lol/posts/</link>
-    <description>Recent content in Posts on Gagan Singh&#39;s Webpage</description>
+    <title>Posts on Gagan singh</title>
+    <link>https://gsinh.github.io/posts/</link>
+    <description>Recent content in Posts on Gagan singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jul 2022 19:31:06 +0530</lastBuildDate><atom:link href="http://singh.lol/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 19:31:06 +0530</lastBuildDate><atom:link href="https://gsinh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://singh.lol/posts/my-first-post/</link>
+      <title>Hugo Blog!</title>
+      <link>https://gsinh.github.io/posts/hugo-blog/</link>
       <pubDate>Sun, 10 Jul 2022 19:31:06 +0530</pubDate>
       
-      <guid>http://singh.lol/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://gsinh.github.io/posts/hugo-blog/</guid>
+      <description>I am a paragraph in Markdown with line wrapping so fit in this width. I am a continuation of the first paragraph as there is no empty line before me.
+I am the second paragraph.
+I am the third one. Even though there are two line breaks before me, this does not create any newline characters. After me there are two spaces before the newline character.·· I have line break before me and even though I am not a new paragraph, I do start on a new line due to the manual line break via spaces before the newline character.</description>
     </item>
     
   </channel>
