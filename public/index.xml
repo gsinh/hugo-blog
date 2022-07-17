@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gagan singh</title>
-    <link>https://gsinh.github.io/</link>
+    <link>https://singh.lol/</link>
     <description>Recent content on Gagan singh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jul 2022 19:31:06 +0530</lastBuildDate><atom:link href="https://gsinh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jul 2022 19:31:06 +0530</lastBuildDate><atom:link href="https://singh.lol/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo Blog!</title>
-      <link>https://gsinh.github.io/posts/hugo-blog/</link>
+      <title>Under construction!</title>
+      <link>https://singh.lol/posts/under-construction/</link>
       <pubDate>Sun, 10 Jul 2022 19:31:06 +0530</pubDate>
       
-      <guid>https://gsinh.github.io/posts/hugo-blog/</guid>
+      <guid>https://singh.lol/posts/under-construction/</guid>
       <description>I am a paragraph in Markdown with line wrapping so fit in this width. I am a continuation of the first paragraph as there is no empty line before me.
 I am the second paragraph.
 I am the third one. Even though there are two line breaks before me, this does not create any newline characters. After me there are two spaces before the newline character.·· I have line break before me and even though I am not a new paragraph, I do start on a new line due to the manual line break via spaces before the newline character.</description>
