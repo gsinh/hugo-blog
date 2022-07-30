@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://singh.lol/about/</loc>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://singh.lol/</loc>
-    <lastmod>2022-07-10T19:31:06+05:30</lastmod>
+    <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://singh.lol/posts/</loc>
     <lastmod>2022-07-10T19:31:06+05:30</lastmod>
   </url><url>
     <loc>https://singh.lol/posts/under-construction/</loc>
     <lastmod>2022-07-10T19:31:06+05:30</lastmod>
-  </url><url>
-    <loc>https://singh.lol/about/</loc>
-    <lastmod>2022-07-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://singh.lol/categories/</loc>
   </url><url>

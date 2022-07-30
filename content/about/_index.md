@@ -1,15 +1,10 @@
 +++
 title = "About"
-description = "Gagan Singh's Webpage"
-date = "2022-07-10"
-aliases = ["about-us", "about", "contact"]
+description = "About me"
+date = "2022-07-28"
+aliases = ["about-us", "contact"]
 author = "Gagan Singh"
 enableComments = false
 +++
 
-I am a software engineer working for a large financial organisation in Bangalore. I am fascinated by technology and its continuous impact in shaping the world.
-
-I grew up in the Himalayas and enjoy being connected with nature. I love to travel, hike and letting the mind wander to rejuvenate the creativity. 
-I am learning music production and also like to dabble into photography.
-
-Opinions are my own.
+Hello! I am a software engineer working in Bangalore.
